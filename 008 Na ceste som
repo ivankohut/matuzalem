@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Na ceste som</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>8</hymn_number>
   <presentation>C V1 V2 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[C]
  Na ceste som a nevrátim sa späť. 
  Na ceste som a nevrátim sa späť.
@@ -30,4 +17,5 @@
  Nebudú chcieť ísť, tak ja pôjdem sám. 
  Nebudú chcieť ísť, tak ja pôjdem sám. 
  Nebudú chcieť ísť, tak ja pôjdem sám, 
- ó, Bože môj, na Tvojej ceste som.</lyrics></song>
+ ó, Bože môj, na Tvojej ceste som.</lyrics>
+</song>

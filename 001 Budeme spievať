@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Budeme spievať</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>1</hymn_number>
   <presentation>C V1 C V2 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[C]
  Budeme spievať a hrať
  piesne chvály dovtedy
@@ -50,4 +37,5 @@
  veď pred očami mám novú nádej,
  čo svieti ako deň.
  V nej som posilnený piesňou, Boh čo dal
- a v jej harmónii kráčať smiem.</lyrics></song>
+ a v jej harmónii kráčať smiem.</lyrics>
+</song>

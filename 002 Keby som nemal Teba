@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Keby som nemal Teba</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>2</hymn_number>
   <presentation>V1 V2 C1 C2</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Keby som nemal Teba
  a mal dlhú cestu pred sebou,
@@ -49,4 +36,5 @@
  Mojou istotou, mojou nádejou,
  mojou posilou, mojou záchranou,
  mojou oporou, mojou záštitou
- si Ty sám.</lyrics></song>
+ si Ty sám.</lyrics>
+</song>
